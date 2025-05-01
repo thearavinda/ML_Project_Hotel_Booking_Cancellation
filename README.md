@@ -82,3 +82,5 @@ The dataset contains 119390 rows and 32 coloumns.Our goal is to build a model ab
 **TARGET**
 
 **is_canceled**: Value indicating if the booking was canceled (1) or not (0)
+
+
